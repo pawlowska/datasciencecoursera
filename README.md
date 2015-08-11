@@ -1,3 +1,3 @@
 # datasciencecoursera-
 
-this is a repository I sreated for a course
+this is a repository I created for a course
